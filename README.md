@@ -1,14 +1,15 @@
-Build calendar component
-Click on a specific date on calendar component: open to-do list for that day (same page or different)
-Button: upon clicking this button, opens a modal to add an item to to-do list
-Modal for to-do item: title, category, notes 
-Button: upon clicking this button, adds item to the to-do list below with a checkbox
-click the checkbox: checks off the box and crosses out the item
-
-
+1. Build calendar component 
+2. Click on a specific date in calendar component: open to-do list for that day (same page or different)
+3. Addiing to-do items: Build a button which on clickin, opens a modal to add an item to to-do list
+4. Build a modal for to-do item: modal will have title, category, notes 
+5. Build a button at the bottom of modal: upon clicking this button, adds the curremt item to the to-do list 
+6. Complete an item: click the checkbox: checks off the box and crosses out the item
+7. Delete an item from to-do list
+8. Edit an item in the t-do list
 
 
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
