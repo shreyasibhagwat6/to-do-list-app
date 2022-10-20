@@ -8,7 +8,6 @@ click the checkbox: checks off the box and crosses out the item
 
 
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
