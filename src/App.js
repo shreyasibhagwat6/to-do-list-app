@@ -1,10 +1,12 @@
+import React from "react";
+import ReactCalendar from "./components/ReactCalendar/ReactCalendar";
 
-
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-          To Do App        
+          To Do App 
+          <ReactCalendar />       
       </header>
     </div>
   );
